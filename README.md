@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Ruchitha  
 
-<!--
-**ruchithaas16-code/ruchithaas16-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 3rd Year CSE Student @ Cauvery institute of technology, Mandya  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Computer Science Engineering Student  
+- 💻 Passionate about Web Development & Software Development  
+- 🧠 Currently learning Data Structures & Algorithms  
+- 🚀 Aspiring Software Engineer  
+- 💡 Love building real-world projects  
+
+---
+
+## 🛠️ Skills  
+
+### 💻 Programming Languages
+- Python  
+- C programming  
+- java  
+
+### 🌐 Web Development
+- HTML  
+- CSS  
+- JavaScript  
+
+### 🧠 Data Structures & Algorithms
+- Arrays  
+- Linked Lists  
+- Stacks & Queues  
+- Trees  
+- Graphs  
+- Basic Dynamic Programming  
+
+---
+
+## 🚀 Projects  
+- 🔹Habit Tracker 
+- 🔹 Portfolio Website  
+- 🔹 DSA Practice Repository  
+
+---
+
+
+
+## 🎯 Goals  
+- 🚀 Crack top tech placements  
+- 💻 Become a Full Stack Developer  
+- 🧠 Master DSA & System Design  
+
+---
+
+## 📫 Connect With Me  
+- 💼 LinkedIn: https://www.linkedin.com/in/ruchitha-a-s-327154326/
+- 📧 Email:ruchithaas16@gmail.com
+
+---
+
