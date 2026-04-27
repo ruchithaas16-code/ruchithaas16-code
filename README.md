@@ -39,7 +39,7 @@
 - 🔹Habit Tracker 
 - 🔹 Portfolio Website  
 - 🔹 DSA Practice Repository  
-
+- 🔹 E-commerce website
 ---
 
 
@@ -47,7 +47,8 @@
 ## 🎯 Goals  
 - 🚀 Crack top tech placements  
 - 💻 Become a Full Stack Developer  
-- 🧠 Master DSA & System Design  
+- 🧠 Master DSA & System Design
+- 🧠 Master SQL  
 
 ---
 
