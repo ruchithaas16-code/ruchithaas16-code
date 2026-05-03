@@ -18,7 +18,8 @@
 ### 💻 Programming Languages
 - Python  
 - C programming  
-- java  
+- java
+- SQL  
 
 ### 🌐 Web Development
 - HTML  
