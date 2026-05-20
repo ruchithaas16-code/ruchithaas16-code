@@ -19,7 +19,7 @@
 - Python  
 - C programming  
 - java
-- SQL  
+- MySQL  
 
 ### 🌐 Web Development
 - HTML  
@@ -39,8 +39,10 @@
 ## 🚀 Projects  
 - 🔹Habit Tracker 
 - 🔹 Portfolio Website  
-- 🔹 DSA Practice Repository  
+- 🔹 DSA Practice Repository
+- 🔹 MySQL Practice Repository
 - 🔹 E-commerce website
+- 🔹 MyVault
 ---
 
 
@@ -49,7 +51,7 @@
 - 🚀 Crack top tech placements  
 - 💻 Become a Full Stack Developer  
 - 🧠 Master DSA & System Design
-- 🧠 Master SQL  
+- 🧠 Master MySQL  
 
 ---
 
