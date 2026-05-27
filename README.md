@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ruchitha  
 
-### 👩‍💻 3rd Year CSE Student @ Cauvery institute of technology, Mandya  
+### 👩‍💻 Pre-final Year CSE Student @ Cauvery institute of technology, Mandya  
 
 ---
 
