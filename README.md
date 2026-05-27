@@ -29,9 +29,7 @@
 ### 🧠 Data Structures & Algorithms
 - Arrays  
 - Linked Lists  
-- Stacks & Queues  
-- Trees  
-- Graphs  
+- Strings 
 - Basic Dynamic Programming  
 
 ---
