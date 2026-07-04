@@ -12,10 +12,4 @@ Hi, I'm Ruchitha<br>👩‍💻 Pre-final Year CSE Student @ Cauvery institute o
 ![](https://streak-stats.demolab.com/?user=ruchithaas16-code&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ruchithaas16-code&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ruchithaas16-code&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=ruchithaas16-code&icon=9&color=3)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
