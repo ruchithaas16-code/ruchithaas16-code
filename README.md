@@ -1,5 +1,5 @@
 <b><p style="font-family: Sans-serif;">Hi, I'm Ruchitha</b><br>
-👩‍💻 Pre-final Year CSE Student @ Cauvery institute of technology, Mandya<br>
+👩‍💻 final Year CSE Student @ Cauvery institute of technology, Mandya<br>
 ------------------------------------------------------------------------------
 🚀<b> About Me</b><br>🎓 Computer Science Engineering Student<br>💻 Passionate about Web Development & Software Development<br>🧠 Currently learning Data Structures & Algorithms<br>🚀 Aspiring Software Engineer<br>💡 Love building real-world projects<br><br>🚀<b> Projects</b><br>🔹Habit Tracker<br>🔹 Portfolio Website<br>🔹 DSA Practice Repository<br>🔹 MySQL Practice Repository<br>🔹 E-commerce website<br>🔹 MyVault<br><br>🎯<b> Goals</b><br>🚀 Crack top tech placements<br>💻 Become a Full Stack Developer<br>🧠 Master DSA & System Design<br>🧠 Master MySQL<br>
 
